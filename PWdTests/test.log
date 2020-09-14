@@ -1,0 +1,64 @@
+2020-09-03 21:30:38,005 [INFO]: Logged in to application in C:\Users\envy\Desktop\PythonForTestersProject\PWdTests\test_wd4ddt.py:18
+2020-09-03 21:37:45,351 [INFO]: admin, entered on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:26
+2020-09-03 21:37:45,595 [INFO]: admin123, entered on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:26
+2020-09-03 21:37:47,157 [INFO]: clicked on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:32
+2020-09-03 21:37:47,158 [INFO]: Logged in to application in C:\Users\envy\Desktop\PythonForTestersProject\PWdTests\test_wd4ddt.py:18
+2020-09-03 22:08:20,598 [INFO]: application opened from setup in C:\Users\envy\Desktop\PythonForTestersProject\PWdTests\conftest.py:21
+2020-09-03 22:09:42,400 [INFO]: application opened from setup in C:\Users\envy\Desktop\PythonForTestersProject\PWdTests\conftest.py:21
+2020-09-04 20:19:43,342 [INFO]: admin, entering on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:19:43,543 [INFO]: admin, entered on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:19:43,543 [INFO]: admin123, entering on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:19:43,648 [INFO]: admin123, entered on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:19:43,649 [INFO]: clicking on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:32
+2020-09-04 20:19:49,734 [INFO]: clicked on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:35
+2020-09-04 20:20:39,848 [INFO]: admin, entering on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:20:39,987 [INFO]: admin, entered on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:20:39,988 [INFO]: admin123, entering on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:20:40,084 [INFO]: admin123, entered on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:20:40,085 [INFO]: clicking on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:32
+2020-09-04 20:20:43,558 [INFO]: clicked on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:35
+2020-09-04 20:21:50,258 [INFO]: admin, entering on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:21:50,364 [INFO]: admin, entered on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:21:50,364 [INFO]: admin123, entering on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:21:50,456 [INFO]: admin123, entered on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:21:50,457 [INFO]: clicking on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:32
+2020-09-04 20:21:55,349 [INFO]: clicked on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:35
+2020-09-04 20:22:47,006 [INFO]: admin, entering on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:22:47,111 [INFO]: admin, entered on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:22:47,111 [INFO]: admin123, entering on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:22:47,197 [INFO]: admin123, entered on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:22:47,197 [INFO]: clicking on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:32
+2020-09-04 20:22:52,481 [INFO]: clicked on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:35
+2020-09-04 20:23:43,603 [INFO]: admin, entering on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:23:43,734 [INFO]: admin, entered on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:23:43,736 [INFO]: admin123, entering on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:23:43,835 [INFO]: admin123, entered on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:23:43,836 [INFO]: clicking on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:32
+2020-09-04 20:23:48,854 [INFO]: clicked on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:35
+2020-09-04 20:28:39,831 [INFO]: admin, entering on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:28:39,975 [INFO]: admin, entered on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:28:39,976 [INFO]: admin123, entering on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:28:40,079 [INFO]: admin123, entered on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:28:40,080 [INFO]: clicking on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:32
+2020-09-04 20:28:45,526 [INFO]: clicked on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:35
+2020-09-04 20:28:45,540 [INFO]: clicking on entered on lnkPIM:('link text', 'PIM') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:32
+2020-09-04 20:28:47,649 [INFO]: clicked on entered on lnkPIM:('link text', 'PIM') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:35
+2020-09-04 20:28:47,649 [INFO]: clicking on entered on btnAddEmp:('id', 'btnAdd') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:32
+2020-09-04 20:28:48,789 [INFO]: clicked on entered on btnAddEmp:('id', 'btnAdd') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:35
+2020-09-04 20:28:48,790 [INFO]: selenium, entering on txtFirstName:('id', 'firstName') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:28:48,964 [INFO]: selenium, entered on txtFirstName:('id', 'firstName') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:28:48,965 [INFO]: webdriver, entering on txtLastName:('id', 'lastName') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:28:49,087 [INFO]: webdriver, entered on txtLastName:('id', 'lastName') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:28:49,088 [INFO]: clicking on entered on btnSave:('xpath', '//input[@value="Save"]') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:32
+2020-09-04 20:28:50,968 [INFO]: clicked on entered on btnSave:('xpath', '//input[@value="Save"]') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:35
+2020-09-04 20:29:23,052 [INFO]: admin, entering on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:29:23,215 [INFO]: admin, entered on txtUserName:('xpath', "//input[@id='txtUsername']") in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:29:23,216 [INFO]: admin123, entering on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
+2020-09-04 20:29:23,322 [INFO]: admin123, entered on txtPassword:('id', 'txtPassword') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:28
+2020-09-04 20:29:23,322 [INFO]: clicking on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:32
+2020-09-04 20:29:28,800 [INFO]: clicked on entered on btnLogin:('id', 'btnLogin') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:35
+2020-09-04 20:29:28,812 [INFO]: clicking on entered on lnkPIM:('link text', 'PIM') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:32
+2020-09-04 20:29:30,519 [INFO]: clicked on entered on lnkPIM:('link text', 'PIM') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:35
+2020-09-04 20:29:30,519 [INFO]: clicking on entered on btnAddEmp:('id', 'btnAdd') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:32
+2020-09-04 20:29:30,603 [INFO]: clicked on entered on btnAddEmp:('id', 'btnAdd') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:35
+2020-09-04 20:29:30,603 [INFO]: selenium, entering on txtFirstName:('id', 'firstName') in C:\Users\envy\Desktop\PythonForTestersProject\POMDoc\BasePage.py:25
